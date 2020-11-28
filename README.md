@@ -1,10 +1,4 @@
 ### Here is What I'm Working On! 👋
-
-<!--
-**joaomarcuscardoso/joaomarcuscardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...DEVELOPER WEB
 - 🌱 I’m currently learning ...PHP, React Native, Javascript, Css, HTML
 - 👯 I’m looking to collaborate on ...Php
@@ -13,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://www.linkedin.com/in/jo%C3%A3o-marcus-cardoso-167a1a18a/
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I love workout in gym
--->
